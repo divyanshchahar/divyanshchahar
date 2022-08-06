@@ -19,6 +19,8 @@ May the code be with you ⌨
 <a href="https://www.linkedin.com/in/divyanshchahar/"> <img src="./linkedin_logo.gif" width="5%"> </a>
 <a href="https://twitter.com/DivyanshChahar"> <img src="./twitter_logo.gif" width="5%"> </a>
 
+___
+
 ### My Projects
 
 #### <a href = "https://github.com/divyanshchahar/e_store"> 🛒 E Store </a>
@@ -38,7 +40,7 @@ May the code be with you ⌨
 - Image Index – Images rendered from local image index, single import
   statement
 
-#### <a href="">🎯 Job tracking app</a>
+#### <a href="https://github.com/divyanshchahar/website_clone">🎯 Job tracking app</a>
 
 - Frontend for job tracking(add, update and delete job applications)
 - Data stored to local storage
