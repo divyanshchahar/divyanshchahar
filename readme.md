@@ -40,7 +40,7 @@ ___
 - Image Index – Images rendered from local image index, single import
   statement
 
-#### <a href="https://github.com/divyanshchahar/website_clone">🎯 Job tracking app</a>
+#### <a href="https://github.com/divyanshchahar/job_tracking_app">🎯 Job tracking app</a>
 
 - Frontend for job tracking(add, update and delete job applications)
 - Data stored to local storage
