@@ -15,6 +15,7 @@ Kudos
 May the code be with you ⌨
 
 <b>Connect with me</b>
+<br>
 <a href="https://www.linkedin.com/in/divyanshchahar/"> <img src="./linkedin_logo.gif" width="5%"> </a>
 <a href="https://twitter.com/DivyanshChahar"> <img src="./twitter_logo.gif" width="5%"> </a>
 
