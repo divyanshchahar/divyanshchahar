@@ -6,7 +6,7 @@
 
 ### About Me
 
-I like building things but I won't be making the modern day Mona Lisa any time soon. I love building solutions. I see software as a solution and not merely as code.
+I love technology and I love building things. I love solving real world problems. I build technology(and code) as a solution to a problem and not just merely as technology.
 
 I have background in aerospace engineering ( bachelors and a masters ) and I like ✈ aircrafts, 🚗 cars, 🚢big boats and 🚀rockets.
 
@@ -14,12 +14,12 @@ Kudos
 
 May the code be with you ⌨
 
-<b>Connect with me</b>
+<b>Feel like having a word, lets connect</b>
 <br>
 <a href="https://www.linkedin.com/in/divyanshchahar/"> <img src="./linkedin_logo.gif" width="5%"> </a>
 <a href="https://twitter.com/DivyanshChahar"> <img src="./twitter_logo.gif" width="5%"> </a>
 
-___
+---
 
 ### My Projects
 
