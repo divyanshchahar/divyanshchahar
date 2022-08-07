@@ -39,11 +39,13 @@ May the code be with you ⌨
 - Dynamic item list – items listed from local JSON file
 - Image Index – Images rendered from local image index, single import
   statement
+- See it in action <a href="https://divyanshdemo2.netlify.app/"> here </a>
 
 #### <a href="https://github.com/divyanshchahar/job_tracking_app">🎯 Job tracking app</a>
 
 - Frontend for job tracking(add, update and delete job applications)
 - Data stored to local storage
+- See it in action <a href="https://divyanshdemo1.netlify.app/"> here </a>
 
 #### <a href="https://github.com/divyanshchahar/website_clone">🤖 Website Clone</a>
 
