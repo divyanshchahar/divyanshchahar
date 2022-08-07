@@ -43,7 +43,7 @@ May the code be with you ⌨
 
 #### <a href="https://github.com/divyanshchahar/job_tracking_app">🎯 Job tracking app</a>
 
-- Frontend for job tracking(add, update and delete job applications)
+- Frontend for job tracking(add and delete job applications)
 - Data stored to local storage
 - See it in action <a href="https://divyanshdemo1.netlify.app/"> here </a>
 
