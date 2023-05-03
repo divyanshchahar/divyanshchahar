@@ -23,30 +23,23 @@ May the code be with you ⌨
 
 ### My Projects
 
-#### <a href = "https://github.com/divyanshchahar/e_store"> 🛒 E Store </a>
+#### <a href = "https://github.com/divyanshchahar/virtual_store"> 🛒 Virtual Store </a>
 
-- Fully Functional Frontend for e-commerce store
-- Dynamic item list (REST API)
-- Single Page app with react router
-- Form data handled using useReducer
-- Use of Custom Hooks
-- Functional Componenets
+- MERN App
+- Redux Workflow
+- Microservice Architecture for authentication
+- Yarn Monorepo
 - Responsive 📱💻🖥
 
-#### <a href ="https://github.com/divyanshchahar/bookstore">📚 Book Store</a>
+#### <a href = "https://github.com/divyanshchahar/csscalculator"> 🧮 CSS Calculator </a>
 
-- Frontend for product listing
-- Dynamic item list – items listed from local JSON file
-- Image Index – Images rendered from local image index, single import
-  statement
-- See it in action <a href="https://divyanshdemo2.netlify.app/"> here </a>
+- Yarn Monorepo
+- CSS processing utility
 
-#### <a href="https://github.com/divyanshchahar/job_tracking_app">🎯 Job tracking app</a>
+#### <a href = "https://github.com/divyanshchahar/csscalculator"> 🗓️ Habit Tracker </a>
 
-- Frontend for job tracking ( add and delete job applications )
-- Data stored to local storage
-- See it in action <a href="https://divyanshdemo1.netlify.app/"> here </a>
-
-#### <a href="https://github.com/divyanshchahar/website_clone">🤖 Website Clone</a>
-
-- Clone of <a href="https://wotnot.io/">wotnot.io</a>
+- JavaScript and Webpack
+- Pure DOM MAnipulation app
+- App to help user pick up hobbies
+- Generate daily to do list based on user input
+- Save data locally in JSON format
