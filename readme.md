@@ -36,7 +36,7 @@ May the code be with you ⌨
 - Yarn Monorepo
 - CSS processing utility
 
-#### <a href = "https://github.com/divyanshchahar/csscalculator"> 🗓️ Habit Tracker </a>
+#### <a href = "https://github.com/divyanshchahar/habit_tracker_js"> 🗓️ Habit Tracker </a>
 
 - JavaScript and Webpack
 - Pure DOM MAnipulation app
