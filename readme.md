@@ -39,7 +39,7 @@ May the code be with you ⌨
 #### <a href = "https://github.com/divyanshchahar/habit_tracker_js"> 🗓️ Habit Tracker </a>
 
 - JavaScript and Webpack
-- Pure DOM MAnipulation app
+- Pure DOM Manipulation app
 - App to help user pick up hobbies
 - Generate daily to do list based on user input
 - Save data locally in JSON format
