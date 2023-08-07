@@ -10,7 +10,7 @@
     <img src="./linkedin.svg" width="7.5%">
 </a>
 <a href="https://twitter.com/DivyanshChahar">
-    <img src="./square-X-twitter.svg" width="7.5%" >
+    <img src="./square_x_twitter.svg" width="7.5%" >
 </a>
 
 ## My Projects
